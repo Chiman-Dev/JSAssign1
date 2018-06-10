@@ -1,1 +1,1 @@
-alert("I am from external file");
+alert("I am from external file"); //External file to add alert
